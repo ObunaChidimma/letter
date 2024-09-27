@@ -1,0 +1,57 @@
+.body {
+    background-color: cadetblue;
+    
+}
+
+.letter {
+    display: flex;
+    justify-content: center;
+   
+}
+#letter {
+    display: none;
+    border: 2px solid whitesmoke ;
+    width: 50%;
+    height: 750px;
+    padding: 20px;
+}
+
+
+
+.head{
+    background-color: cadetblue;
+}
+
+
+.add {
+    margin-top: 20px;
+}
+
+.clr {
+    clear: both;
+}
+
+.float-start {
+    margin-top: 150px;
+}
+
+.float-end {
+    margin-top: 100px;
+}
+
+.img-bg {
+    background-image: url("../img/bg2.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.img-bg a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.img-bg ul {
+    list-style: none;
+}
